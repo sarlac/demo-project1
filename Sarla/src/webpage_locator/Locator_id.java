@@ -14,7 +14,7 @@ public class Locator_id {
 		driver.get("https://www.facebook.com/");	
 	
 		driver.findElement(By.id("email")).sendKeys("sachimegawe@gmail.com");
-		driver.findElement(By.id("pass")).sendKeys("omvedi@love1");
+		driver.findElement(By.id("pass")).sendKeys("Qwerty@852");
 		
 		driver.findElement(By.name("login")).click();
 		//driver.findElement(By.id("u_0_d_iz")).click();
